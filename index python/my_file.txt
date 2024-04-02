@@ -1,0 +1,6 @@
+This is line 1.
+12345
+Another line with text and numbers: 67890
+This is an appended line.
+Appended numbers: 111
+One more appended line with text: ABC
